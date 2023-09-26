@@ -1,0 +1,4 @@
+- Hi, I’m @Naykiry
+- I’m currently learning с++, python
+- Omelchenko Vladislav Alexandrovich
+- group 231-3211
