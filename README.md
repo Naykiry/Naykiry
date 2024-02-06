@@ -1,4 +1,4 @@
 - Hi, I’m @Naykiry
 - I’m currently learning с++, python
 - Omelchenko Vladislav Alexandrovich
-- mospolytech university group 231-3211
+- Mospolytech university group 231-3211
